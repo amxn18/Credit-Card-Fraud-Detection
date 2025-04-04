@@ -1,5 +1,5 @@
 # Credit Card Fraud Detection 🏦🔍
-
+DataSet: https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 ## 📌 Objective
 To detect fraudulent credit card transactions using machine learning (Logistic Regression). The dataset is highly imbalanced, so under-sampling was used to handle the class distribution.
 
